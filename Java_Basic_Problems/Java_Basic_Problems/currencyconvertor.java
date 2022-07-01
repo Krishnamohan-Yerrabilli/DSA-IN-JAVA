@@ -1,4 +1,4 @@
-package com.company;
+Upackage com.company;
 
 //Input currency in rupees and output in USD.
 
@@ -17,5 +17,5 @@ public class currencyconvertor {
             count++;
         }
         System.out.println(indianrupee + " is equal to " + indtodoll + "$");
-    }
+    } 
 }
